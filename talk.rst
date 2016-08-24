@@ -22,7 +22,7 @@ athornton@gmail.com
 
 |
 
-https://goo.gl/UzCqlD
+This presentation: https://goo.gl/UzCqlD
 
 ----
 
@@ -104,13 +104,11 @@ Computer games were the next best thing.
 Fallout
 #######
 
-|wasteland|
+There was a nuclear war on October 23, 2077.  *Fallout* takes place 100
+years later.  *Fallout 4* happens 210 years later.  |wasteland|
 
-Does anyone here need this slide either?
 
-Spiritual successor of *Wasteland* (EA, 1988)
-
-|
+Fallout is the spiritual successor of *Wasteland* (1988).
 
 |
 
