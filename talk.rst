@@ -38,10 +38,10 @@ group.
 
 |fallout|
 
-They said that they would like to play something like Fallout next.
+They said that they would like to play something like *Fallout* next.
 
 After kicking around some options, we decided, why not just play a
-Fallout RPG?  It's not like I'm going to try to sell it.
+*Fallout* RPG?  It's not like I'm going to try to sell it.
 
 - At least not without filing off the serial numbers.
 
@@ -142,7 +142,7 @@ Spiritual successor of *Wasteland* (EA, 1988)
 
 |fallout4|
 
-Post-apocalyptic retro-future.  Robots, tailfins, the Ink Spots.
+Post-apocalyptic retro-future: robots, tailfins, the Ink Spots.
 
 .. |fallout3| image:: images/fallout3.jpg
 
@@ -186,7 +186,7 @@ which can improve over time.  These have generally been
 percentile-based, although sometimes the cap has been 200% (don't think
 too hard about that).
 
-So: at a glance, it's a lot like Chaosium's Basic Role-Playing (better
+At a glance, it's a lot like Chaosium's Basic Role-Playing (better
 known to most people via *Call of Cthulhu*) with the stats halved.
 
 .. |pip-boy|  image:: images/pip_boy.jpg
@@ -226,7 +226,7 @@ Jason Mical has already done a *Fallout* PnP game:
 
 - 3.0 (WIP): http://falloutpnp.wikia.com/wiki/Main_Page
 
-- 2.0: http://nma-fallout.com/forum/dload.php?action=file&file_id=775
+- 2.0: http://www.fallout.ru/projects/pnp/fallout_pnp_2.0.pdf
 
 - Basically for *Fallout* 1 and 2 era, not 3-NV-4.
 
@@ -284,6 +284,8 @@ points.
 SPECIAL: 1-10.
 
 Percentile skills.
+
+Fast level advancement.
 
 .. |jim3| image:: images/jim3.png
 
@@ -404,9 +406,9 @@ A Roguelike
 And before I knew it, I'd implemented, basically, the core of a
 roguelike. |rl|
 
-Just to get two raiders fighting needed all of the above, plus motion
-rules, plus morale, plus a turn sequencer, plus choosing weapons,
-plus a faction system...
+Just to get two raiders fighting each other needed all of the above,
+plus motion rules, plus morale, plus a turn sequencer, plus choosing
+weapons, plus a faction system...
 
 .. |rl| image:: images/nethack.png
 
