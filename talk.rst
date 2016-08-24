@@ -15,18 +15,19 @@ Fallout Pen-and-Paper
 Adam Thornton
 =============
 
-Speaking As A Private Individual
-================================
+Not Speaking For An Employer
+============================
 
 athornton@gmail.com
+
+|
+
+https://goo.gl/UzCqlD
 
 ----
 
 .. role:: raw-role(raw)
     :format: html
-
-.. role:: strike
-    :class: strike
 
 Background
 ##########
@@ -133,16 +134,16 @@ Spiritual successor of *Wasteland* (EA, 1988)
 3D Fallout games: *Fallout 3* (2008), *Fallout: New Vegas* (2010),
 *Fallout 4* (2015). 
 
-|
-
-|
+The major differences are that they are 3D rather than tile-based, and,
+more importantly, that I know them a lot better than the first two.
 
 
 |fallout_nv|
 
 |fallout4|
 
-Post-apocalyptic retro-future: robots, tailfins, the Ink Spots.
+They're all a post-apocalyptic retro-future with robots, tailfins, and
+an Ink Spots soundtrack.
 
 .. |fallout3| image:: images/fallout3.jpg
 
@@ -376,27 +377,19 @@ Fighting a few Mole Rats took forever and was kind of boring. |mole_rat|
 Implementing a Battle Simulator
 ###############################
 
-So, I need an Actor class.  It has hit points and armor. |simulator|
+So, I need an Actor class.  It has hit points and armor... 
 
-And it's got SPECIAL stats and skills...
+And SPECIAL stats...and skills...and weapons...which may have
+ammo and ranges...and splash damage...and I need a class to roll dice
+and calculate damage...which comes in (at least) physical, burn, poison, and
+radiation variants...and the actor is at particular coordinates in a
+space, which we will call an arena... 
 
-And it has weapons....
-
-Weapons may have ammo and ranges...
-
-And splash damage...
-
-And I need a class to roll dice and calculate damage...
-
-Oh dear.  Damage comes in (at least) physical, burn, poison, and
-radiation variants...
-
-The actor is at particular coordinates in a space, which we will call an
-arena...
-
-And it needs a strategy for what it's going to *do* each turn...
+|simulator|
 
 .. |simulator| image:: images/simulator.png
+
+.. |actor| image:: images/actor.png
 
 ----
 
@@ -408,7 +401,9 @@ roguelike. |rl|
 
 Just to get two raiders fighting each other needed all of the above,
 plus motion rules, plus morale, plus a turn sequencer, plus choosing
-weapons, plus a faction system...
+weapons, plus some kind of strategy algorithm.
+
+Three raiders?  Now I need a faction system...
 
 .. |rl| image:: images/nethack.png
 
