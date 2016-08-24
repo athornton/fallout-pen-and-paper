@@ -129,7 +129,7 @@ Fallout is the spiritual successor of *Wasteland* (1988).
 #######################
 
 |fallout3| The *Fallout* I'm basing my game on is the set of more recent
-3D Fallout games: *Fallout 3* (2008), *Fallout: New Vegas* (2010),
+*Fallout* games: *Fallout 3* (2008), *Fallout: New Vegas* (2010),
 *Fallout 4* (2015). 
 
 The major differences are that they are 3D rather than tile-based, and,
